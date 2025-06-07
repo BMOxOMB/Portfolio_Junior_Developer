@@ -1,7 +1,7 @@
 {
   "name": "Portfolio-Junior-Developer",
   "version": "1.0.0",
-  "homepage": "https://BMOxOMB.github.io/Portfolio_Junior_Developer",,
+  "homepage": "https://bmoxomb.github.io/Portfolio_Junior_Developer",
   "main": "/index.js",
   "scripts": {
     "start": "react-scripts start",
